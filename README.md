@@ -49,7 +49,7 @@ I am a Full-stack developer. I build amazing solutions with frontend and backend
 <a href='https://twitter.com/imodupsy'><img src='https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white' /></a>
 
 ---
-<a href="https://github.com/opeyemipeter1759">
+<a href="https://github.com/modupeadeonojobi">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=modupeadeonojobi&theme=radical&show_icons=true" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=modupeadeonojobi&theme=radical&layout=compact" />
 </a>

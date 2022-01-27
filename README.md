@@ -1,13 +1,13 @@
+<h2>Hi there 👋, I'm Modupe Ade-Onojobi 👧 </h2>
 
+<h3> About me </h3>
 
-### Hi there 👋, I am Modupe Ade-Onojobi 👧
-
-
-##  About me
-I am a Full-stack developer. I build amazing solutions with frontend and backend technologies. Feel free to take a look at my projects☺️🌿
+<p>I am a Full-stack developer. I build amazing solutions with frontend and backend technologies.
+<br> Feel free to take a look at my projects☺️🌿 </p>
 
 ---
-## Frontend Development
+
+<h3>Frontend Development</h3>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -19,7 +19,8 @@ I am a Full-stack developer. I build amazing solutions with frontend and backend
 
 ---
 
-## Backend Development
+<h3> Backend Development</h3>
+
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Spring](https://img.shields.io/badge/springbooot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
@@ -32,7 +33,7 @@ I am a Full-stack developer. I build amazing solutions with frontend and backend
 
 ---
 
-## Version Control
+<h3>Version Control</h3>
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
@@ -41,7 +42,7 @@ I am a Full-stack developer. I build amazing solutions with frontend and backend
 
 ---
 
-## Get in touch! 
+<h3> Get in touch! <h3>
 
 <a href='mailto:modupeadeonojobi@gmail.com'><img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' /></a>
 <a href='https://join.skype.com/invite/HjcYhnjMpOeH'><img src='https://img.shields.io/badge/skype-%2300AFF0.svg?style=for-the-badge&logo=Skype&logoColor=white'/></a>
@@ -53,3 +54,4 @@ I am a Full-stack developer. I build amazing solutions with frontend and backend
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=modupeadeonojobi&theme=radical&show_icons=true" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=modupeadeonojobi&theme=radical&layout=compact" />
 </a>
+
